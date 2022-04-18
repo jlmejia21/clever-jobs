@@ -105,7 +105,7 @@ header {
 .jobs-container {
     display: grid;
     gap: 40px;
-    flex-grow: 1;
+    /* flex-grow: 1; */
     grid-template-columns: repeat(3, 1fr);
     background: #11121A;
 }
